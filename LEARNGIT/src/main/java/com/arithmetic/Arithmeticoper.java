@@ -12,8 +12,10 @@ public class Arithmeticoper {
 		
 		c=a+b;
 		int d=a-b;
+		int e=a*b;
 System.out.println("sum is ="+c);
 System.out.println(d);
+System.out.println(e);
 	}
 
 }
